@@ -1,0 +1,6 @@
+li a:link{
+    color: blue;
+}
+li a:visited{
+    color: green;
+}
